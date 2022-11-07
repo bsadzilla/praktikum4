@@ -17,8 +17,8 @@ print("Bilangan terbesar = ", b)
 - kemudian masukan bilangan pertama dan bilangan kedua,
 - dan tekan enter, untuk melihat hasilnya seperti contoh gambar berikut:
 
-![Gambar1]
-![Gambar1]
+![Gambar1](gambar/lab1.1.png)
+
 
 # latihan 2
 
@@ -61,8 +61,8 @@ print(f'{i1}, {i2}, {i3}')
 ```
 - dan saat running kita input bilangan yang ingin kita urutkan lalu hasil running nya seperti gambar berikut:
 
-![Gambar1]
-![Gambar1]
+![Gambar1](gambar/lab1.2.png)
+
 
 # Latihan 3 
 
@@ -77,8 +77,8 @@ print()
 ```
 - maka runingannya akan seperti gambar berikut:
 
-![Gambar1]
-![Gambar1]
+![Gambar1](gambar/lab1.3.1.png)
+
 
 # Latihan 4
 
@@ -92,19 +92,14 @@ for i in range(n):
 ```
 - setelah runing akan diminta masukan nilai n, disini saya memasukan nilai n-nya 9 dan hasil runningannya akan seperti gambar berikut:
 
-![Gambar1]
-![Gambar1]
+![Gambar1](gambar/lab1.4.png)
 
 # Latihan 5
-
-![Gambar1]
-
 - jadi masukan i, j, k sebagai inputan, untuk memasukan bilangan lalu tambahkan **if** menandakan bahwa **i lebih besar dari j** lalu tambahkan titik dua jadi seperti ini **If i > j :** lakukan juga pada **r** dan **d** lalu print dan ketik masukan bilangan terbesar, kemudian selanjutnya tambahkan **elif dan else** yaitu untuk menambah aksi untuk menentukan bahwa **i lebih besar dari k** dan **j lebih besar dari k**, setelah menjalani codingan seperti penjelasan dan gambar di atas kemudian di running.
-![Gambar1](fotoss/ss5.1.png)
+![Gambar1](gambar/lab2.1.png)
 - setelah running masukan bilangan dari yang terbesar hingga terkecil, hasil akhirnya menununjukan bilangan terbesar dari tiga bilangan yang di masukan
 
 # Latihan 6
-![Gambar1](fotoss/ss6.png)
 - kita akan membuat sebuah program yang dimana kita bisa menginputkan bilangan integer berapapun dan di akhiri oleh = **0**
 ```
 max = 0
@@ -119,10 +114,9 @@ print("bilangan terbesarnya adalah:", max)
 - jadi **max** adalah variabel yang telah diberi nilai = **0**
 - dan **x** adalah variabel untuk menampilkan sebuah ekspresi untuk anda memasukan bilangan
 - kita menggunakan **break** agar program memiliki titik akhir.
-![Gambar1]
+![Gambar1](gambar/lab3.4.png)
 - disini kita bisa melihat hasilnya bahwa kita menginput berapapun bilangan yang kita inginkan dan jika ingin mengakhiri tinggal menginputkan titik akhir, yaitu **0**
 
 # Latihan 7
-![Gambar1]
 - masukkan codingan seperti diatas adalah untuk menghitung laba dari bulan ke-1 hingga ke-8
-![Gambar1]
+![Gambar1](gambar/lab3.6.png)
